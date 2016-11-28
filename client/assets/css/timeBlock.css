@@ -1,10 +1,10 @@
 .timeBlock {
     list-style-type: none;
-    font-family: 'Source Code Pro',monospace;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 24px;
     color: #fff;
     padding: 30px;
-    font-weight: 100;
+    font-weight: 200;
     background-color: #ccc;
     display: block;
     cursor: pointer;

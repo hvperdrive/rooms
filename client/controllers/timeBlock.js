@@ -53,7 +53,7 @@ if (Meteor.isClient) {
   }
 
   Template.timeBlock.rendered = function(){
-    jsgradient.gradientList('#F6AE8F', '#FF2A68', '#timeBlockIndex');
+    jsgradient.gradientList('#fecd46', '#ea7496', '#timeBlockIndex');
   }
 
   Template.timeBlock.events({
